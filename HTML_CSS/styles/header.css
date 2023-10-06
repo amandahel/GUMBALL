@@ -1,5 +1,5 @@
 .cabeçalho{
-    background-color: rgb(255, 255, 255); /*coloca cor de fundo */
+    background-color: rgb(43, 219, 117); /*coloca cor de fundo */
     display: flex;
     font-size: 2em;           /*coloca tamanho da fonte */
     color: rgb(0, 0, 0);         /*coloca cor da fonte*/
@@ -16,7 +16,7 @@
     margin: 05px;
 }
 .botao_login {
-    background-color: #effcf1;
+    background-color: #94a117;
     border-radius: 10px;
     border: none;
     color: #082735;
